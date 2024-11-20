@@ -1,5 +1,8 @@
 # Tic-Tac-Toe Game
 
+![image](https://github.com/user-attachments/assets/dc4f09ce-3851-4106-af76-e2228862c806)
+
+
 ## Overview
 This repository contains a web-based version of the classic Tic-Tac-Toe game, developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other in a fun and interactive environment.
 
